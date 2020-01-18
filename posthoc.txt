@@ -1,0 +1,11 @@
+Multiple Comparison of Means - Tukey HSD,FWER=0.05
+=============================================
+group1 group2 meandiff  lower   upper  reject
+---------------------------------------------
+ AGR    CSN   -0.2525  -0.2685 -0.2365  True 
+ AGR    EXT   -1.3708  -1.3868 -1.3548  True 
+ AGR    OPN    1.3985   1.3824  1.4145  True 
+ CSN    EXT   -1.1183  -1.1343 -1.1023  True 
+ CSN    OPN    1.651    1.6349  1.667   True 
+ EXT    OPN    2.7693   2.7533  2.7853  True 
+---------------------------------------------
