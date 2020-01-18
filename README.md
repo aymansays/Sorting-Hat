@@ -1,4 +1,5 @@
-# CMPT 353 - Harry Potter Sorting Hat
+# Harry Potter Sorting Hat
+An analysis on the Big Five personality test in relation to Harry Potter houses.
 
 ## Libraries
  - pandas v0.25.2
